@@ -1,8 +1,19 @@
-Сайт портфолио https://tatiamart.github.io/themountains/
-Продвинутый курс по веб-разработке Лофтскул, 09/2017
+## Сайт портфолио
+Продвинутый курс по веб разработке от Loftschool, 09/2017
+Ссылка на проект: https://tatiamart.github.io/themountains/
 Студент: Татьяна Мартыненко
 
-Инструкции по установке
-git clone https://github.com/tatiamart/themountains site
-cd site
-npm i
+#### Для работы сборки у вас должны быть установлены
+* npm 5
+* gulp-cli 
+
+#### Как установить проект
+1. clone this repo
+2. npm i
+3. gulp 
+
+####Используемые технологии
+*Pug – шаблонизатор
+*Scss – препроцессор
+*Gulp – сборка проекта
+*Webpack – для работы с javascript
