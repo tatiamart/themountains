@@ -1,7 +1,8 @@
 ## Сайт портфолио
 Продвинутый курс по веб разработке от Loftschool, 09/2017
-Ссылка на проект: https://tatiamart.github.io/themountains/
 Студент: Татьяна Мартыненко
+
+Ссылка на проект: https://tatiamart.github.io/themountains/
 
 #### Для работы сборки у вас должны быть установлены
 * npm 5
